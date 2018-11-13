@@ -2,6 +2,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+// Comentario
+
 public class MyPolynomial {
 
 	private double[] coeffs;
